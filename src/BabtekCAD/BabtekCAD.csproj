@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="AcCoreMgd" />
+    <Reference Include="AcDbMgd" />
+    <Reference Include="AcMgd" />
+  </ItemGroup>
+
+</Project>
